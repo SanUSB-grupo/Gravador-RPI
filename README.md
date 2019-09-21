@@ -1,5 +1,5 @@
  
-# Instalador do Gravador SANUSB para Linux
+# Instalador do Gravador SANUSB para Raspberry Pi
 
 ## Pré requisitos
 

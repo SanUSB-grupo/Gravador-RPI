@@ -1,4 +1,3 @@
- 
 # Instalador do Gravador SANUSB para Raspberry Pi
 
 ## Pré requisitos
@@ -22,7 +21,7 @@ unzip SanUSBrpi.zip
 cd SanUSBrpi
 # Instalar o .deb
 sudo dpkg -i ./sanusb_raspberry.deb
-# Dar permissão para execução
+# Atribuir permissão de execução
 chmod +x sanusb
 # Permitir que haja a execução do sanusb em qualquer diretório
 cp sanusb /usr/share/sanusb
